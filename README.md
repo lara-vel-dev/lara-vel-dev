@@ -21,7 +21,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2>About me</h2>
 <div >
-<img style="margin-left: 20px;" align="right" src="https://media.tenor.com/RmHjgPk7VS8AAAAC/azula-queen-burning.gif" width="400"/></div>
+<img align="right" src="https://media.tenor.com/RmHjgPk7VS8AAAAC/azula-queen-burning.gif" width="400"/></div>
 
 <div>
 <p>
@@ -30,6 +30,6 @@
 
 <p>I'm not just a programmer; I'm a perpetual learner and a technology junkie. I thrive on the thrill of discovering new things and exploring the latest trends in the tech world. </p>
 
-<p>Beyond programming, I love cooking, drawing, gaming and of course, watching series. </p>
+<p>Beyond programming, I love cooking, drawing, reading, playing music instruments gaming and watching series. </p>
 
 </div>
