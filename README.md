@@ -9,7 +9,7 @@
 	</a>
 </h1>
 
-<img src="https://media.moddb.com/images/members/4/3383/3382765/avatar123.png" />
+<img src="./img/avatars.png" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2>About me</h2>
