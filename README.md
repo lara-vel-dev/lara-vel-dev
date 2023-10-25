@@ -23,19 +23,6 @@
 <div >
 <img align="right" src="https://media.tenor.com/RmHjgPk7VS8AAAAC/azula-queen-burning.gif" width="400"/></div>
 
-<div>
 <p>
-	STEM Woman 👩🏻‍💻. Software Developer with 2 years of experience.<br> My true passions in the coding universe are Python and JavaScript 🐍💛.
+Experienced STEM professional 👩🏻‍💻 with a two-year background in software development, specializing in Python and JavaScript. I'm not just a coder, but a perpetual learner and tech enthusiast 🤓, driven by the excitement of discovering new advancements in the tech world. Beyond programming, I enjoy diverse interests, including cooking, art, reading, playing musical instruments, gaming, and watching series. Currently, I'm diving into cloud technologies, machine learning, and artificial intelligence, broadening my knowledge horizons 🤖 🧠. If you share my passion for Python, JavaScript, and the joy of learning, let's connect and create code magic together! 🐍💛 
 </p>
-
-<p>I'm not just a programmer; I'm a perpetual learner and a technology junkie 🤓. I thrive on the thrill of discovering new things and exploring the latest trends in the tech world 💻. </p>
-
-<p>Beyond programming, I love cooking 👩🏻‍🍳, drawing 🎨, reading 📖, playing musical instruments 🎷, gaming 🎮 and watching series 📺. </p>
-
-<p>Right now I'm learning about cloud technologies and also about machine learning and Artificial Inteligence 🤖 🧠. </p>
-
-<p>If you share my love for Python, JavaScript, and the thrill of learning, let's connect and code up a storm together! 😛 </p>
-
-
-
-</div>
