@@ -32,4 +32,10 @@
 
 <p>Beyond programming, I love cooking, drawing, reading, playing music instruments gaming and watching series. </p>
 
+<p>Right now I'm learning about cloud technologies and also about machine learning and Artificial Inteligence. </p>
+
+<p>If you share my love for Python, JavaScript, and the thrill of learning, let's connect and code up a storm together! </p>
+
+
+
 </div>
