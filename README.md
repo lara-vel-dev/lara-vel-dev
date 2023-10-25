@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">
-	<a target="_self">
+	<a href="">
 		<img src="https://media.tenor.com/PRcQePKtLYYAAAAi/blue-blueflame.gif" width="40" />
 	</a>
  Hi, I'm Daniela Lara!
-	<a target="_self">
+	<a href="">
 		<img src="https://media.tenor.com/PRcQePKtLYYAAAAi/blue-blueflame.gif" width="40" />
 	</a>
 </h1>
