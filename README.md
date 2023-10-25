@@ -25,16 +25,16 @@
 
 <div>
 <p>
-	STEM Woman. Software Developer with 2 years of experience. My true passions in the coding universe are Python and JavaScript.
+	STEM Woman 👩🏻‍💻. Software Developer with 2 years of experience. My true passions in the coding universe are Python and JavaScript 🐍💛.
 </p>
 
-<p>I'm not just a programmer; I'm a perpetual learner and a technology junkie. I thrive on the thrill of discovering new things and exploring the latest trends in the tech world. </p>
+<p>I'm not just a programmer; I'm a perpetual learner and a technology junkie 🤓. I thrive on the thrill of discovering new things and exploring the latest trends in the tech world 💻. </p>
 
-<p>Beyond programming, I love cooking, drawing, reading, playing music instruments gaming and watching series. </p>
+<p>Beyond programming, I love cooking 👩🏻‍🍳, drawing 🎨, reading 📖, playing musical instruments 🎷, gaming 🎮 and watching series 📺. </p>
 
-<p>Right now I'm learning about cloud technologies and also about machine learning and Artificial Inteligence. </p>
+<p>Right now I'm learning about cloud technologies and also about machine learning and Artificial Inteligence 🤖 🧠. </p>
 
-<p>If you share my love for Python, JavaScript, and the thrill of learning, let's connect and code up a storm together! </p>
+<p>If you share my love for Python, JavaScript, and the thrill of learning, let's connect and code up a storm together! 😛 </p>
 
 
 
