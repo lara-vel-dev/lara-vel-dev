@@ -23,6 +23,9 @@
 <img align="right" src="https://media.tenor.com/RmHjgPk7VS8AAAAC/azula-queen-burning.gif" width="400"/>
 
 <p>
-	STEM Woman. Software Developer with 2 years of experience. My true passions in the coding universe are Python and JavaScript. I'm not just a programmer; I'm a perpetual learner and a technology junkie. I thrive on the thrill of discovering new things and exploring the latest trends in the tech world.
-
+	STEM Woman. Software Developer with 2 years of experience. My true passions in the coding universe are Python and JavaScript.
 </p>
+
+<p>I'm not just a programmer; I'm a perpetual learner and a technology junkie. I thrive on the thrill of discovering new things and exploring the latest trends in the tech world. </p>
+
+<p>Beyond programming, I love cooking, drawing, gaming and of course, watching series. </p>
