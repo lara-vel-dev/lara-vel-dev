@@ -25,7 +25,7 @@
 
 <div>
 <p>
-	STEM Woman 👩🏻‍💻. Software Developer with 2 years of experience. My true passions in the coding universe are Python and JavaScript 🐍💛.
+	STEM Woman 👩🏻‍💻. Software Developer with 2 years of experience.<br> My true passions in the coding universe are Python and JavaScript 🐍💛.
 </p>
 
 <p>I'm not just a programmer; I'm a perpetual learner and a technology junkie 🤓. I thrive on the thrill of discovering new things and exploring the latest trends in the tech world 💻. </p>
