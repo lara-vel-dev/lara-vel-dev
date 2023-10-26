@@ -46,9 +46,35 @@ Experienced STEM woman 👩🏻‍💻 who adores Python and JavaScript 🐍💛
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2>
-	Hello
+<a href="">
+		<img src="https://pa1.aminoapps.com/7620/fc109fa0b90c3d49369569509ec8608253749cb5r1-400-400_00.gif" width="40" />
+	</a>
+Tech Stack
+	<a href="">
+		<img src="https://pa1.aminoapps.com/7620/fc109fa0b90c3d49369569509ec8608253749cb5r1-400-400_00.gif" width="40" />
+	</a>
+
 </h2>
 
+<div>
+<img align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/94ca6811-9d87-4b5b-bf56-09a43e02c0db/d6iibfo-a9a6da53-891d-4a9a-ab97-bc1c85895972.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk0Y2E2ODExLTlkODctNGI1Yi1iZjU2LTA5YTQzZTAyYzBkYlwvZDZpaWJmby1hOWE2ZGE1My04OTFkLTRhOWEtYWI5Ny1iYzFjODU4OTU5NzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-HcnJxwdHKmeaHiiWRf0DQ8sVHk-0fuIPKnJ39ygaGg" width="300" />
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/94ca6811-9d87-4b5b-bf56-09a43e02c0db/d6iibfo-a9a6da53-891d-4a9a-ab97-bc1c85895972.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk0Y2E2ODExLTlkODctNGI1Yi1iZjU2LTA5YTQzZTAyYzBkYlwvZDZpaWJmby1hOWE2ZGE1My04OTFkLTRhOWEtYWI5Ny1iYzFjODU4OTU5NzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-HcnJxwdHKmeaHiiWRf0DQ8sVHk-0fuIPKnJ39ygaGg" width="300" />
+<details align="right">
+  <summary>Some other facts about me-e-e</summary>
+  <br>
+  <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i><p>
+
+  - I post random photos and trip snippets at **[VSCO](https://vsco.co/jayehernandez)**. (Look at the Journal's tab!)
+  - My go to jam when coding: musicals. Non-stop. ⭐️
+  - I absolutely adore Eevee, the best Pokemon.
+  
+
+ [![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=lara-vel-dev&show_icons=true&theme=dracula)](https://github.com/lara-vel-dev/github-readme-stats)
+  <br><br>
+</details>
+
+</div>
+
+
 	
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
