@@ -34,7 +34,7 @@ About me
 
 </h2>
 <div >
-<img align="right" src="https://media.tenor.com/RmHjgPk7VS8AAAAC/azula-queen-burning.gif" width="350"/>
+<img align="right" src="https://media.tenor.com/RmHjgPk7VS8AAAAC/azula-queen-burning.gif" width="400"/>
 
 <p>
 Experienced STEM woman 👩🏻‍💻 who adores Python and JavaScript 🐍💛. I'm a tech enthusiast 🤓, a coder, and a perpetual learner. Apart from programming, I love cooking 👩🏻‍🍳, art 🎨, reading 📖, music 🎷, gaming 🎮, and series 📺. Currently exploring cloud tech, machine learning, and AI 🤖 🧠. If you share my love for Python, JavaScript, and the thrill of learning, let's connect and code up a storm together! 😄 💻  
