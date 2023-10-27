@@ -1,6 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <h1 align="center">
 	<a href="">
 		<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ6d3FidTdkOG16aWd6Y2E2NnJ1b3d1M3Fod2F1cnBhazNxMjFnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wmBqpjUmoMtdzWfkw3/giphy.gif" width="60" />
@@ -10,8 +9,6 @@
 		<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ6d3FidTdkOG16aWd6Y2E2NnJ1b3d1M3Fod2F1cnBhazNxMjFnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wmBqpjUmoMtdzWfkw3/giphy.gif" width="60" />
 	</a>
 </h1>
-
-
 
 <img src="./img/avatars.png" />
 
@@ -42,7 +39,6 @@ Experienced STEM woman 👩🏻‍💻 who adores Python and JavaScript 🐍💛
 
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2>
@@ -60,21 +56,60 @@ Tech Stack
 <img align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/94ca6811-9d87-4b5b-bf56-09a43e02c0db/d6iibfo-a9a6da53-891d-4a9a-ab97-bc1c85895972.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk0Y2E2ODExLTlkODctNGI1Yi1iZjU2LTA5YTQzZTAyYzBkYlwvZDZpaWJmby1hOWE2ZGE1My04OTFkLTRhOWEtYWI5Ny1iYzFjODU4OTU5NzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-HcnJxwdHKmeaHiiWRf0DQ8sVHk-0fuIPKnJ39ygaGg" width="300" />
 
 <details align="right">
-  <summary>Some other facts about me-e-e</summary>
+  <summary>My Tools and Software 🛠️ </summary>
   <br>
-  <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i><p>
+	<p align="right">
+		<a href="https://skillicons.dev">
+			<img src="https://skillicons.dev/icons?i=git,github,gitlab,markdown,vscode,vim,unity,blender,figma,xd&perline=5" width=210/>
+		</a>
+	</p>
 
-  - I post random photos and trip snippets at **[VSCO](https://vsco.co/jayehernandez)**. (Look at the Journal's tab!)
-  - My go to jam when coding: musicals. Non-stop. ⭐️
-  - I absolutely adore Eevee, the best Pokemon.
-  
-
- [![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=lara-vel-dev&show_icons=true&theme=dracula)](https://github.com/lara-vel-dev/github-readme-stats)
-  <br><br>
 </details>
 
-</div>
+<details align="right">
+  <summary>Frontend Technologies 🎨</summary>
+  <br>
+  <p align="right">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,lit,react,next,gatsby,redux,bootstrap,sass,tailwind,webpack,vite&perline=5" width=210/>
+  </a>
+</p>
+</details>
 
+<details align="right">
+  <summary>Backend Technologies 💻</summary>
+  <br>
+  <p align="right">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,ruby,rails,py,flask,graphql,firebase,mysql,docker,postman&perline=5" width=210/>
+  </a>
+</p>
+</details>
 
-	
+<details align="right">
+  <summary>Other Technologies 🤓</summary>
+  <br>
+  <p align="right">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,arduino,raspberrypi,cpp,cs,matlab,flutter,swift,androidstudio,linux&perline=5" width=210/>
+  </a>
+</p>
+</details>
+
+<details align="right">
+<summary>My Top Languages 🏆</summary>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lara-vel-dev&langs_count=5&show_icons=true&locale=en&theme=dracula" alt="Daniela's Stats" height="230px"/>
+
+<br/>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  </p>
+</details>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=lara-vel-dev&show_icons=true&theme=dracula)](https://github.com/lara-vel-dev/github-readme-stats)
