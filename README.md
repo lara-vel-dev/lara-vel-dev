@@ -58,7 +58,7 @@ Tech Stack
 <details align="center">
   <summary>My Tools and Software 🛠️ </summary>
   <br>
-	<p align="right">
+	<p align="center">
 		<a href="https://skillicons.dev">
 			<img src="https://skillicons.dev/icons?i=git,github,gitlab,markdown,vscode,vim,unity,blender,figma,xd&perline=5" width=210/>
 		</a>
@@ -69,7 +69,7 @@ Tech Stack
 <details align="center">
   <summary>Frontend Technologies 🎨</summary>
   <br>
-  <p align="right">
+  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,lit,react,next,gatsby,redux,bootstrap,sass,tailwind,webpack,vite&perline=5" width=210/>
   </a>
@@ -79,7 +79,7 @@ Tech Stack
 <details align="center">
   <summary>Backend Technologies 💻</summary>
   <br>
-  <p align="right">
+  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,ruby,rails,py,flask,graphql,firebase,mysql,docker,postman&perline=5" width=210/>
   </a>
@@ -89,7 +89,7 @@ Tech Stack
 <details align="center">
   <summary>Other Technologies 🤓</summary>
   <br>
-  <p align="right">
+  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,arduino,raspberrypi,cpp,cs,matlab,flutter,swift,androidstudio,linux&perline=5" width=210/>
   </a>
@@ -116,7 +116,7 @@ Tech Stack
 <a href="">
 		<img src="https://media.tenor.com/Z0wDoxDHjn4AAAAj/tsunami-studio-wave.gif" width="40" />
 	</a>
-	My Repos
+	My Favorite Repos
 	<a href="">
 		<img src="https://media.tenor.com/Z0wDoxDHjn4AAAAj/tsunami-studio-wave.gif" width="40" />
 	</a>
