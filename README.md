@@ -55,7 +55,7 @@ Tech Stack
 <div>
 <img align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/94ca6811-9d87-4b5b-bf56-09a43e02c0db/d6iibfo-a9a6da53-891d-4a9a-ab97-bc1c85895972.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk0Y2E2ODExLTlkODctNGI1Yi1iZjU2LTA5YTQzZTAyYzBkYlwvZDZpaWJmby1hOWE2ZGE1My04OTFkLTRhOWEtYWI5Ny1iYzFjODU4OTU5NzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-HcnJxwdHKmeaHiiWRf0DQ8sVHk-0fuIPKnJ39ygaGg" width="300" />
 
-<details align="right">
+<details align="center">
   <summary>My Tools and Software 🛠️ </summary>
   <br>
 	<p align="right">
@@ -66,7 +66,7 @@ Tech Stack
 
 </details>
 
-<details align="right">
+<details align="center">
   <summary>Frontend Technologies 🎨</summary>
   <br>
   <p align="right">
@@ -76,7 +76,7 @@ Tech Stack
 </p>
 </details>
 
-<details align="right">
+<details align="center">
   <summary>Backend Technologies 💻</summary>
   <br>
   <p align="right">
@@ -86,7 +86,7 @@ Tech Stack
 </p>
 </details>
 
-<details align="right">
+<details align="center">
   <summary>Other Technologies 🤓</summary>
   <br>
   <p align="right">
@@ -96,7 +96,7 @@ Tech Stack
 </p>
 </details>
 
-<details align="right">
+<details align="center">
 <summary>My Top Languages 🏆</summary>
 
 <p align="center">
