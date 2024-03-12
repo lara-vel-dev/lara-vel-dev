@@ -169,7 +169,15 @@ Tech Stack
 
 <td width="50%" align="center">
  <img  align="center"  src="https://media.tenor.com/cBjvVgYOzwwAAAAd/toph-beifong-the-blind-bandit.gif"/>
-  
   </td>
 </tr>
+<tr>
+    <td colspan='2' align='center'>
+	<h2> #30NitesOfCode </h2>
+        <img src='https://www.codedex.io/api/petStatus?user=lara-vel-dev'>
+	<br>
+	<a href='https://www.codedex.io/@lara-vel-dev/30-nites-of-code'>Check my progress!</a>
+    </td>
+</tr>
 </table>
+
